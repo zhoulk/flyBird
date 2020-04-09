@@ -1,0 +1,26 @@
+{
+	"React-Native Class":{
+		"scope": "javascript,typescript",
+		"prefix": "test",
+		"body": [
+			"/**",
+			"*",
+			"* @ author:Carson",
+			"* @ email:976627526@qq.com",
+			"* @ data: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
+			"*/",
+			"export default class $TM_FILENAME_BASE extends Laya.Script {",
+			"",
+			"\tconstructor() {",
+			"\t\tsuper();",
+			"\t\t/** @prop {name:name, tips:\"提示文本\", type:Node, default:null}*/",
+			"\t\tthis.xx=null;",
+			"\t}",
+			"",
+			"\tonAwake() {",
+			"\t}",
+			"}"
+		],
+		"description": "快速创建一个Laya模板类"
+	}
+}
