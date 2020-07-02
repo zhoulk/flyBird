@@ -1,5 +1,4 @@
 D .
-R B7E0FF53 comp.zip
 D audio
 R F6CD9116 fly.mp3
 R 3EBAB0C9 hit.mp3
@@ -47,6 +46,8 @@ D images
 P E1CC64FA BirdHero_01.png
 P EABA4810 BirdHero_02.png
 P 49FF16BF BirdHero_03.png
+S 1CA79BA7 BJ1.png
+S CB844C2C BJ2.png
 R 310328F1 black.png
 R F9A9C5D8 ColumnSprite.png
 R 33DE20AA GrassThinSprite.png
